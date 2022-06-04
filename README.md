@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-pareshm
 - 👀 I’m interested in Web Development, Cloud Computing
-- 🌱 I’m currently learning things to master my skills
+- 🌱 I’m currently learning new skills
 
 - 📫 How to reach me 
 - ➡️ mail me at mestryparesh52@gmail.com
