@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @im-pareshm
+- 👋 Hi, I’m Paresh Mestry
 - 👀 I’m interested in Web Development, Cloud Computing
 - 🌱 I’m currently learning new skills
 
