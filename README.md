@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Paresh Mestry
 - 👀 I’m interested in Web Development, Cloud Computing
+- Skills : ASP .Net Core, Reactjs, Nextjs, Javascript, C#, SQL
 - 🌱 I’m currently learning new skills
 
 - 📫 How to reach me 
